@@ -5,3 +5,4 @@
 # Virtual Environment files
 .venv/
 venv/
+tests_old/*
